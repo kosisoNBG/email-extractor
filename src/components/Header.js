@@ -15,10 +15,10 @@ function Header() {
         <ul className="navbar-nav mr-auto">
           
           <li className="nav-item">
-            <Link className="nav-link" to="/">About</Link>
+            <Link className="nav-link" to="/About">About</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" to="/">Contact</Link>
+            <Link className="nav-link" to="/Contact">Contact</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/email-extractor">Email Extractor</Link>
