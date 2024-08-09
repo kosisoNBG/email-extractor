@@ -39,7 +39,7 @@ function Home() {
                         className="form-control"
                         placeholder="name@example.com..."
                         id="emailInput"
-                        style={{ border: '1px solid #000', height: 50, width: '20rem' }}
+                        style={{ border: '1px solid #000', height: 50}}
                     />
                 </div>
                 <div className="col-md-4 mx-auto">
